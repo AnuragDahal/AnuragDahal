@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuragDahal
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+  You can contact me on my social media handles.
 
 <!---
 AnuragDahal/AnuragDahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

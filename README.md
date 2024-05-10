@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuragDahal
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: 
-  - [![Facebook](https://www.facebook.com/anurag.dahal.73)
+  - [[Facebook](https://www.facebook.com/anurag.dahal.73)
   - [LinkedIn](https://www.linkedin.com/in/anurag-dahal-9788602a1/)
   - [Instagram](https://www.instagram.com/anurag.dahal.73/)
   

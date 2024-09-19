@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @AnuragDahal
-
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=523BF7&width=435&lines=Hi+there%2C+I'm+Anurag+Dahal+%F0%9F%91%8B" alt="Typing SVG" /></a>
+## About Me
 <p>I’m a Computer Science student passionate about exploring technology and building innovative projects.</p>
 I love turning new ideas into reality through code.
 
@@ -31,7 +31,17 @@ I love turning new ideas into reality through code.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## Github Stats
+
+## 📫 Connect with me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anurag.dahal.73)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anurag.dahal.73)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dahal-9788602a1)
+
+---
+
+## 📊 GitHub Stats
+
 <p  display="flex" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuragDahal&theme=default&show_icons=true&hide_border=true&count_private=true" alt="AnuragDahal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDahal&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />

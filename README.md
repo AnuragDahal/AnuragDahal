@@ -1,51 +1,60 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=523BF7&width=435&lines=Hi+there%2C+I'm+Anurag+Dahal+%F0%9F%91%8B" alt="Typing SVG" /></a>
-## About Me
-<p>I’m a Computer Science student passionate about exploring technology and building innovative projects.</p>
-I love turning new ideas into reality through code.
+# Hi, I'm Anurag Dahal 👋
 
-## 🌱 Currently Learning
+### Backend-focused full-stack developer building reliable web and AI-powered products
 
-- MERN Stack
-- Next.js
+I work primarily with **Python, FastAPI, Node.js, and PostgreSQL**. I have hands-on experience building production APIs, authentication systems, payment integrations, background workflows, and full-stack applications.
 
-## 🔧 Tech Stacks
+I enjoy taking products from an idea to a working deployment—designing the backend, integrating external services, building the necessary frontend, and improving reliability through testing, caching, rate limiting, and structured logging.
 
-### Languages & Frameworks:
+## 🛠️ Technologies
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- **Backend:** Python, FastAPI, Django, Node.js, Express.js, NestJS
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, pgvector
+- **Infrastructure:** Docker, GitHub Actions, AWS S3, Vercel, Render
+- **Integrations:** REST APIs, OAuth, Firebase Auth, Razorpay, Stripe
+- **AI:** RAG pipelines, LLM integrations, embeddings, source-grounded responses
 
-### Databases:
+## 🚀 Selected Projects
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### [ProjectMind](https://projectmind.dahalanurag.com.np)
 
-### Tools & Technologies:
+An AI research workspace where users can create private projects, upload documents, ask source-grounded questions, and verify responses through citations.
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Built using a RAG pipeline, AWS S3, PostgreSQL, and vector embeddings.
 
----
+### [PagePulse](https://github.com/AnuragDahal/pagepulse)
 
-## 📫 Connect with me:
+A production-focused URL audit API built with FastAPI and Redis.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anurag.dahal.73)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anurag.dahal.73)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dahal-9788602a1)
+It includes caching, rate limiting, concurrency control, request timeouts, structured logging, health checks, automated tests, CI, and Docker support.
 
----
+### [Pensiv](https://github.com/AnuragDahal/pensiv)
 
-## 📊 GitHub Stats
+A full-stack publishing platform with rich-text content creation, authentication, search, comments, reactions, media storage, and content-management workflows.
 
-<p  display="flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragDahal&theme=default&show_icons=true&hide_border=true&count_private=true" alt="AnuragDahal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDahal&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragDahal&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+## 💼 Experience
+
+I have contributed to the core backend of an AI persona platform using FastAPI, MongoDB, Redis, Firebase, Razorpay, and AWS S3.
+
+My work included:
+
+- Payment processing and verification
+- Authentication and user management
+- Credit-management workflows
+- Media upload and processing
+- Background tasks and notifications
+- Production debugging and reliability improvements
+- Automated backend testing
+
+## 🎓 Currently
+
+I'm pursuing a Bachelor's degree in Computer Engineering and continuing to build production-oriented backend, full-stack, and AI-powered applications.
+
+I'm interested in remote **Backend Developer, Full-Stack Developer, and AI-focused Developer** opportunities.
+
+## 📫 Connect With Me
+
+- 🌐 [Portfolio](https://dahalanurag.com.np)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-dahal-9788602a1)
+- 💻 [GitHub](https://github.com/AnuragDahal)
